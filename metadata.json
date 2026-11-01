@@ -1,0 +1,6 @@
+{
+  "name": "MyDay",
+  "description": "Professional Daily Routine, Task Scheduling, Habit Tracking, and Productivity Analytics Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

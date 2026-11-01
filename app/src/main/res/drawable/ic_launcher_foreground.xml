@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone 66dp centered inside 108dp (x: 21..87, y: 21..87) -->
+    <!-- Daily Planner Shield/Card Container -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,78 C30,80.2 31.8,82 34,82 L74,82 C76.2,82 78,80.2 78,78 L78,30 C78,27.8 76.2,26 74,26 L65,26 C64.5,23.5 62,22 59,22 L49,22 C46,22 43.5,23.5 43,26 Z" />
+    <!-- Inner Card Surface -->
+    <path
+        android:fillColor="#0B1F3A"
+        android:pathData="M33,31 C33,30.4 33.4,30 34,30 L74,30 C74.6,30 75,30.4 75,31 L75,77 C75,77.6 74.6,78 74,78 L34,78 C33.4,78 33,77.6 33,77 Z" />
+    <!-- Planner Top Clip Gold -->
+    <path
+        android:fillColor="#F6F1E8"
+        android:pathData="M46,24 L62,24 C63.1,24 64,24.9 64,26 L64,28 L44,28 L44,26 C44,24.9 44.9,24 46,24 Z" />
+    <!-- Checklist items and checkmark -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M41,40 L38,37 L39.4,35.6 L41,37.2 L46.6,31.6 L48,33 Z" />
+    <path
+        android:fillColor="#F6F1E8"
+        android:pathData="M51,34 L69,34 C69.6,34 70,34.4 70,35 C70,35.6 69.6,36 69,36 L51,36 C50.4,36 50,35.6 50,35 C50,34.4 50.4,34 51,34 Z" />
+    
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M41,52 L38,49 L39.4,47.6 L41,49.2 L46.6,43.6 L48,45 Z" />
+    <path
+        android:fillColor="#F6F1E8"
+        android:pathData="M51,46 L69,46 C69.6,46 70,46.4 70,47 C70,47.6 69.6,48 69,48 L51,48 C50.4,48 50,47.6 50,47 C50,46.4 50.4,46 51,46 Z" />
+
+    <!-- Clock / Productivity Progress Badge in Lower Corner -->
+    <path
+        android:fillColor="#C9A227"
+        android:pathData="M60,65 C60,59.5 64.5,55 70,55 C75.5,55 80,59.5 80,65 C80,70.5 75.5,75 70,75 C64.5,75 60,70.5 60,65 Z" />
+    <path
+        android:fillColor="#0B1F3A"
+        android:pathData="M62,65 C62,60.6 65.6,57 70,57 C74.4,57 78,60.6 78,65 C78,69.4 74.4,73 70,73 C65.6,73 62,69.4 62,65 Z" />
+    <!-- Clock Hands -->
+    <path
+        android:fillColor="#F6F1E8"
+        android:pathData="M69.3,60 L70.7,60 L70.7,65 L73.5,67 L72.5,68.2 L69.3,65.8 Z" />
+</vector>
